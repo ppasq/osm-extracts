@@ -14,7 +14,7 @@ Extracts OpenStreetMap features from a `.osm.pbf` file to PostGIS tables using [
 
 1. Download the new pbf file
 2. Truncate the planet tables
-3. Import in the DB using osm2pgsql
+3. Import again in the DB using osm2pgsql
 
 ## Installation
 
