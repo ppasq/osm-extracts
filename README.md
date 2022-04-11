@@ -1,5 +1,7 @@
 # osm-extracts
 
+Extracts OpenStreetMap features from a .PBF file to PostGIS tables using osm2pgsql.
+
 ## Installation
 
 ### Ubuntu
