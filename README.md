@@ -1,4 +1,4 @@
-# osm-extracts
+# osm-extracts (WIP)
 
 Extracts OpenStreetMap features from a `.osm.pbf` file to PostGIS tables using [osm2pgsql](https://osm2pgsql.org).
 
