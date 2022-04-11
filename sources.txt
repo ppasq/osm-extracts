@@ -1,0 +1,20 @@
+Piemonte: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/01_Piemonte_poly.osm.pbf
+Valle d'Aosta: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/02_Valle%20d%27Aosta-Vallée%20d%27Aoste_poly.osm.pbf
+Lombardia: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/03_Lombardia_poly.osm.pbf
+Trentino-Alto Adige: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/04_Trentino-Alto%20Adige-Südtirol_poly.osm.pbf
+Veneto: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/05_Veneto_poly.osm.pbf
+Friuli-Venezia Giulia: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/06_Friuli%20Venezia%20Giulia_poly.osm.pbf
+Liguria: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/07_Liguria_poly.osm.pbf
+Emilia Romagna: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/08_Emilia-Romagna_poly.osm.pbf
+Toscana: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/09_Toscana_poly.osm.pbf
+Umbria: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/10_Umbria_poly.osm.pbf
+Marche: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/11_Marche_poly.osm.pbf
+Lazio: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/12_Lazio_poly.osm.pbf
+Abruzzo: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/13_Abruzzo_poly.osm.pbf
+Molise: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/14_Molise_poly.osm.pbf
+Campania: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/15_Campania_poly.osm.pbf
+Puglia: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/16_Puglia_poly.osm.pbf
+Basilicata: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/17_Basilicata_poly.osm.pbf
+Calabria: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/18_Calabria_poly.osm.pbf
+Sicilia: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/19_Sicilia_poly.osm.pbf
+Sardegna: https://osmit-estratti.wmcloud.org/dati/poly/regioni/pbf/20_Sardegna_poly.osm.pbf
