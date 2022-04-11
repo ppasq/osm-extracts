@@ -5,8 +5,8 @@ Extracts OpenStreetMap features from a `.osm.pbf` file to PostGIS tables using [
 ### Initial Setup
 
 1. Create the database
-2. Download the .pbf file
-3. Convert the .pbf file in .osm format
+2. Download the [.pbf file](https://wiki.openstreetmap.org/wiki/PBF_Format)
+3. Convert the .pbf file in [.osm format](https://wiki.openstreetmap.org/wiki/OSM_XML) via the [o5m data format](https://wiki.openstreetmap.org/wiki/O5m)
 4. Import in the DB using osm2pgsql
 5. Create the views corresponding to the OSM features
 
