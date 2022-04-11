@@ -1,6 +1,6 @@
 # osm-extracts
 
-Extracts OpenStreetMap features from a .PBF file to PostGIS tables using osm2pgsql.
+Extracts OpenStreetMap features from a `.osm.pbf` file to PostGIS tables using [osm2pgsql](https://osm2pgsql.org).
 
 ## Installation
 
